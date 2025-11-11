@@ -110,7 +110,8 @@ int main(void)
 	  // HAL_Delay(500);
     // setVoltage(3.3f);
     // Frequency_square_wave(2048,1);
-    Frequency_triangle_wave(4095, 1, 500);
+    // Frequency_triangle_wave(4095, 1, 500);
+    Frequency_triangle_wave2(4095, 1, 0.1f);
   }
   /* USER CODE END 3 */
 }
