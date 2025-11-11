@@ -114,7 +114,7 @@ int main(void)
     // Frequency_triangle_wave2(4095, 1, 0.1f);
     // Frequency_sin_wave(2048, 1.0f, 1000);
     // Frequency_triangle_wave3(4095, 1.0f);
-    Frequency_sinNoise_wave(1024, 1.0f, 1000);
+    Frequency_sinNoise_wave(1024, 1.0f, 1000, 100, 50.0f);
     // Frequency_noise_wave(4095);
   }
   /* USER CODE END 3 */
