@@ -21,8 +21,8 @@
 - [ ] 滤波器设计
 	- [ ] IIR 常见滤波器
 		- [ ] Butterworth
-		- [ ] chevbyth 1/2
-		- [ ] elliscope
+		- [ ] Chebyshev 1/2
+		- [ ] ellipse
 		- [ ] 有限长序列信号卷积
 		- [ ] 常用的低通滤波器，原理推导
 	- [ ] FIR 常见滤波器
